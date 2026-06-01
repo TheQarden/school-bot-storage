@@ -18,7 +18,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("DBMOD1.school-bot-storage.Storage")
 
-DEVELOPER  = "DBMOD1\nAuthor: TheQarden"
+DEVELOPER  = "DBMOD1 Development\nAuthor: TheQarden"
 SCHOOL     = "142"
 BOT_NAME   = "school-bot-storage"
 ABSOLUTE   = "Алматы"
