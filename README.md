@@ -31,7 +31,7 @@ Telegram-бот для хранения и управления документ
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/ваш-ник/school-bot-storage.git
+git clone https://github.com/theqarden/school-bot-storage.git
 cd school-bot-storage
 
 # Создаём виртуальное окружение
