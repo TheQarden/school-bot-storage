@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger("DBMOD1.school-bot-storage.Storage")
 
 DEVELOPER  = "DBMOD1 Development\nAuthor: TheQarden"
-SCHOOL     = "142"
+SCHOOL     = ""
 BOT_NAME   = "school-bot-storage"
 ABSOLUTE   = "Алматы"
 VERSION    = "1.9"
