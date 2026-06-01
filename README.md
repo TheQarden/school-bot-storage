@@ -46,14 +46,9 @@ source venv/bin/activate
 # Устанавливаем зависимости
 pip install -r requirements.txt
 
+
 # Переходим в папку с ботом
 cd school-bot-storage
-
-# Активируем виртуальное окружение
-# Windows:
-venv\Scripts\activate
-# Mac/Linux:
-source venv/bin/activate
 
 # Запускаем бота
 python school-bot-storage.py
