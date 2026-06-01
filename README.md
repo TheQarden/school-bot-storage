@@ -1,4 +1,4 @@
-# 📁 School Bot Storage
+# 🏫 School Bot Storage
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/BotFather)
@@ -8,7 +8,7 @@ Telegram-бот для хранения и управления документ
 
 ---
 
-## ✨ Возможности
+## 👜 Возможности
 
 | Функция | Описание |
 |---------|----------|
